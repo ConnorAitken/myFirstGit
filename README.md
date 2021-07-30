@@ -1,13 +1,13 @@
-# Project Title
+# Project Title  
 
-**Project Description**
-....
+## Project Description  
+### ....  
 
-**Install Instructions**
-....
+## Install Instructions  
+### ....
 
-**Run Instructions**
-....
+## Run Instructions  
+### ....
 
 Week | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |---
